@@ -1,0 +1,27 @@
+{
+  "name": "com.agalinsky.unity-mvvm",
+  "version": "0.0.1",
+  "displayName": "UnityMVVM",
+  "description": "Lightweight MVVM framework for Unity",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  },  
+  "scopedRegistries": [
+    {
+      "name": "General",
+      "url": "https://github.com/agalinsky/UnityMVVM.git",
+      "scopes": [
+        "com.agalinsky.unity-mvvm"
+      ]
+    }
+  ],
+ "keywords": [
+    "framework",
+    "mvvm",
+	"reactive"
+ ],
+  "author": {
+    "name": "Artem Galinsky",
+    "email": "galinskiybmstu@mail.ru"
+  }
+}
